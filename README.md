@@ -24,7 +24,7 @@ Extracting email components like subject lines and pretexts from SFMC can be cha
 ### Setup
 
 1. **API Credentials**: Ensure you have your SFMC API credentials ready.
-2. **Install Dependencies**: (List any libraries or tools required for running the scripts)
+2. **Install Dependencies**:
 
 ### Usage
 
