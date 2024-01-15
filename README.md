@@ -46,7 +46,7 @@ The API response will contain the following fields:
 - Preheader text
 - Other relevant content
 
-- ## Additional Information
+## Additional Information
 
 - **Inspecting Network Tab**: A detailed guide on how to use the Chrome network tab for constructing the API call is available. This technique is crucial for identifying the right endpoints and parameters for your API requests.
 - **Language Rendering**: The scripts allow you to render emails in different languages using the subscriber key. This feature is particularly useful for multilingual email campaigns.
